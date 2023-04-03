@@ -1,0 +1,13 @@
+.franklin-banner {
+    background-color: blue;
+    padding: 20px;
+    color: #fff;
+}
+
+.franklin-banner > div {
+    margin-bottom: 20px;
+}
+
+.franklin-banner img{
+    width: 50%;
+}
